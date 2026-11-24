@@ -1,0 +1,3 @@
+interface:
+  display_name: "For2026CST"
+  short_description: "按开发者测试赛项流程完成 Java/Maven 测试、变异、代码整理和运行效率验收"
